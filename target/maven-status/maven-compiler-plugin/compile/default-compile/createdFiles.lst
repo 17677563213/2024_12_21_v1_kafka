@@ -1,0 +1,7 @@
+com\example\kafka\consumer\KafkaConsumer.class
+com\example\kafka\producer\KafkaProducer$1.class
+com\example\kafka\config\RetryConfig.class
+com\example\kafka\controller\MessageController.class
+com\example\kafka\model\Message.class
+com\example\kafka\producer\KafkaProducer.class
+com\example\kafka\KafkaApplication.class
